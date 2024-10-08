@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 4,
+  "python.analysis.typeCheckingMode": "standard",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.inlayHints.callArgumentNames": "partial",
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.pytestParameters": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportInvalidTypeForm": "none"
+  },
+  "python.analysis.importFormat": "relative",
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.tabSize": 4,
+    "editor.indentSize": 4,
+  },
+}
